@@ -1,0 +1,8 @@
+﻿int sum = 0, i,temp;
+
+for (i = 0; i < 10; i++)
+{
+    sum = sum + i;
+}
+
+Console.WriteLine(sum);
